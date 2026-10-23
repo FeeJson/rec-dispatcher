@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# 脚本运行时生成的状态文件
+dispatch-state.json
+dispatch-state.json.lock
+launch-queue.jsonl
+launch-queue-done.txt
+launch-cap.txt
+stability.json
+inbox-pending.txt
+launch-failures.log
